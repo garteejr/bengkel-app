@@ -189,15 +189,15 @@
 
 ---
 
-# 👥 ROLE PEMBAGIAN
+#  ROLE PEMBAGIAN
 
-##  Frontend (Kamu)
+##  Frontend 
 - UI dashboard
 - semua blade page
 - modal + table + UX
 - responsive design
 
-##  Backend (Teman kamu)
+##  Backend 
 - database
 - CRUD logic
 - auth system
